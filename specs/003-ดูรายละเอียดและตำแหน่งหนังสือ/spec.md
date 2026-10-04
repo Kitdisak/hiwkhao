@@ -1,6 +1,6 @@
-# specs/002-ดูรายละเอียดและตำแหน่งหนังสือ/spec.md
+# specs/003-ดูรายละเอียดและตำแหน่งหนังสือ/spec.md
 # Feature: ดูรายละเอียดและตำแหน่งหนังสือ 
-Spec ID: SPEC-สมัครสมาชิก_เข้าสู่ระบบ-003 | Source: SRS v0.3 | Use case: UC-03
+Spec ID: SPEC-ดูรายละเอียดและตำแหน่งหนังสือ-003 | Source: SRS v0.3 | Use case: UC-03
 Owner: ทีม หิวข้าว | Status: Draft v1 | Updated: 2569-10-04
 
 ## Goal
