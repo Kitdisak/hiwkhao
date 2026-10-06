@@ -1,5 +1,5 @@
 # Feature: <จองห้องทำงานในห้องสมุด (Booking)>
-Spec ID: SPEC-BKG-001 | Source: SRS v0.3 ข้อ 3.1 (FR-BKG), ข้อ 3.3, ข้อ 3.4 | Use case: UC-01
+Spec ID: SPEC-BKG-001 | Source: SRS v0.3 ข้อ 3.1 (FR-BKG), ข้อ 3.3, ข้อ 3.4 | Use case: UC-09
 Owner: ทีม A | Status: Draft v2 | Updated: 2569-09-20
 
 ## Goal
